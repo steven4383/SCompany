@@ -1,0 +1,106 @@
+#genration{
+    color: white; 
+    font-family: 'Poppins', sans-serif;
+     font-weight: 800; 
+     font-size: 50px; 
+     text-align: left;
+}
+#genration1{
+    color: black; 
+    font-family: 'Poppins', sans-serif;
+     font-weight: 600; 
+     font-size: 50px; 
+     text-align: center;
+     padding-top: 50px;
+}
+#genration5{
+    color: white; 
+    font-family: 'Poppins', sans-serif;
+     font-weight: 600; 
+     font-size: 50px; 
+     text-align: center;
+     padding-top: 50px;
+}
+#genration3{
+    color: black; 
+    font-family: 'Poppins', sans-serif;
+     font-weight: 600; 
+     font-size: 20px; 
+     text-align: center;
+
+}
+#genration4{
+    color: white; 
+    font-family: 'Poppins', sans-serif;
+     font-weight: 600; 
+     font-size: 20px; 
+     text-align: center;
+
+}
+#offer{
+    font-size: 50px; 
+    color: black; 
+    font-family: 'Poppins', sans-serif; 
+    font-weight: 800; font-size: 50px; 
+    text-align: left;
+         
+          }
+.work{
+width: 500px;
+}
+
+#header{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#companyname{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    color: white;
+}
+#navigation{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: white;
+  text-decoration: none;
+}
+.nav-link{
+    color: white;
+
+}
+.heading{
+    text-align: left;
+}
+.card-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+.desgin{
+    background-color: #06184F;
+    width: 100px;
+    height: 80px;
+    margin-left: 250px;
+    padding-top: 20px;
+    
+}
+.btn-primary{
+    background-color: #003FFF;
+}
+
+@media (max-width: 700px) {
+    .col-4 p{
+      font-size: 10px;
+    }
+  }
+@media (max-width: 700px) {
+    
+   .navbar{
+    width: max-content;
+   }
+   .row
+   {
+    width: max-content;
+   }
+   
+    
+  }
